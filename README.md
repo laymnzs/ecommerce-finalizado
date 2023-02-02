@@ -1,4 +1,4 @@
-# ecommerce-finalizado
+# ecommerce-finalizado - Adicionei alguns requisitos pedido.
 
 E-commerce de Camisetas com Estampas Criativas.
 
